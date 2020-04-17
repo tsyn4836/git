@@ -9,3 +9,5 @@ Creating a new branch is quick.
 ** git merge @no-ff
 
 *** fix bug-1
+
+**** local
