@@ -7,3 +7,5 @@ Creating a new branch is quick.
 * git merge @merge-1
 
 ** git merge @no-ff
+
+*** fix bug-1
